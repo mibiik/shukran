@@ -55,4 +55,4 @@ A modern, minimalist gratitude journal application. Built with Supabase, featuri
 
 ## 📄 License
 
-MIT License
+MIT License# shukran
