@@ -26,7 +26,11 @@ A modern, minimalist gratitude journal application. Built with Supabase, featuri
    ```
 
 2. **Set up environment variables:**
-   Create a `.env` file in the project root:
+   Copy `.env.example` to `.env` and fill in your Supabase credentials:
+   ```bash
+   cp .env.example .env
+   ```
+   Then edit `.env` with your actual values:
    ```env
    VITE_SUPABASE_URL=https://your-project-id.supabase.co
    VITE_SUPABASE_ANON_KEY=your-anon-key-here
